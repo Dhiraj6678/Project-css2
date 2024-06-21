@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  .heading {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  #paragraph {
+    color: green;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
